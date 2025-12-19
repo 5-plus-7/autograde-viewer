@@ -18,12 +18,12 @@ function ViewerPage({ data, onBack }) {
   
   // 文本配置常量（基于图片宽度的百分比）
   const TEXT_CONFIG = {
-    QUESTION_FONT_SIZE_RATIO: 0.024, // 题号字体大小 = 图片宽度 * 0.015
-    ANALYSIS_FONT_SIZE_RATIO: 0.020, // 批注字体大小 = 图片宽度 * 0.012
+    QUESTION_FONT_SIZE_RATIO: 0.024, // 题号字体大小 = 图片宽度 * 0.024
+    ANALYSIS_FONT_SIZE_RATIO: 0.020, // 批注字体大小 = 图片宽度 * 0.02
     ANALYSIS_MAX_WIDTH_RATIO: 0.5,   // 批注区域宽度 = 图片宽度 * 0.5
     LINE_HEIGHT_RATIO: 1.5,          // 行高系数 = 字体大小 * 1.5
-    QUESTION_SPACING_RATIO: 0.015,    // 题号间距 = 图片宽度 * 0.01
-    ANALYSIS_SPACING_RATIO: 0.02,   // 批注间距 = 图片宽度 * 0.015
+    QUESTION_SPACING_RATIO: 0.015,    // 题号间距 = 图片宽度 * 0.015
+    ANALYSIS_SPACING_RATIO: 0.02,   // 批注间距 = 图片宽度 * 0.02
   }
 
   /**
@@ -182,12 +182,12 @@ function ViewerPage({ data, onBack }) {
       
       // 根据图片宽度计算文本配置的实际值
       const textConfig = {
-        questionFontSize: displayWidth * TEXT_CONFIG.QUESTION_FONT_SIZE_RATIO,
-        analysisFontSize: displayWidth * TEXT_CONFIG.ANALYSIS_FONT_SIZE_RATIO,
-        analysisMaxWidth: displayWidth * TEXT_CONFIG.ANALYSIS_MAX_WIDTH_RATIO,
-        lineHeight: TEXT_CONFIG.LINE_HEIGHT_RATIO,
-        questionSpacing: displayWidth * TEXT_CONFIG.QUESTION_SPACING_RATIO,
-        analysisSpacing: displayWidth * TEXT_CONFIG.ANALYSIS_SPACING_RATIO,
+        questionFontSize: Math.round(displayWidth * TEXT_CONFIG.QUESTION_FONT_SIZE_RATIO),
+        analysisFontSize: Math.round(displayWidth * TEXT_CONFIG.ANALYSIS_FONT_SIZE_RATIO),
+        analysisMaxWidth: Math.round(displayWidth * TEXT_CONFIG.ANALYSIS_MAX_WIDTH_RATIO),
+        lineHeight: Math.round(TEXT_CONFIG.LINE_HEIGHT_RATIO),
+        questionSpacing: Math.round(displayWidth * TEXT_CONFIG.QUESTION_SPACING_RATIO),
+        analysisSpacing: Math.round(displayWidth * TEXT_CONFIG.ANALYSIS_SPACING_RATIO),
       }
       
       // 1. 添加图片元素
