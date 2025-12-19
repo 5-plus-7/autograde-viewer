@@ -364,7 +364,8 @@ function ViewerPage({ data, onBack }) {
                     const fontSizeNumber = textConfig.analysisFontSize
                     const maxWidth = textConfig.analysisMaxWidth
                     const lines = wrapTextByWidth(analysisText, maxWidth, fontSizeNumber)
-                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight
+                    const verticalPadding = Math.max(fontSizeNumber * 0.5, 10) // 上下各留出字体大小50%或至少10像素的空间
+                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight + verticalPadding
 
                     // 添加包含分析文本的矩形框
                     elements.push({
@@ -451,7 +452,8 @@ function ViewerPage({ data, onBack }) {
                     const fontSizeNumber = textConfig.analysisFontSize
                     const maxWidth = textConfig.analysisMaxWidth
                     const lines = wrapTextByWidth(analysisText, maxWidth, fontSizeNumber)
-                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight
+                    const verticalPadding = Math.max(fontSizeNumber * 0.5, 10) // 上下各留出字体大小50%或至少10像素的空间
+                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight + verticalPadding
 
                     // 添加包含分析文本的矩形框
                     elements.push({
@@ -538,7 +540,8 @@ function ViewerPage({ data, onBack }) {
                     const fontSizeNumber = textConfig.analysisFontSize
                     const maxWidth = textConfig.analysisMaxWidth
                     const lines = wrapTextByWidth(analysisText, maxWidth, fontSizeNumber)
-                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight
+                    const verticalPadding = Math.max(fontSizeNumber * 0.5, 10) // 上下各留出字体大小50%或至少10像素的空间
+                    const textHeight = (lines.length + newlineCount) * fontSizeNumber * textConfig.lineHeight + verticalPadding
 
                     // 添加包含分析文本的矩形框
                     elements.push({
