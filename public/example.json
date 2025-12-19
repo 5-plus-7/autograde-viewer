@@ -1,0 +1,800 @@
+[
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-BV-CF-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "22",
+        "question_type": "选择题",
+        "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。推理判断题：根据短文第一段 Our teacher helped us to get the answer. Morrie是什么身份？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。推理判断题：根据短文第一段 Our teacher helped us to get the answer. Morrie是什么身份？",
+            "student_answer": "A",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "这道题考查推理判断能力。错因：学生误选A，可能未关注文中“Our teacher helped us...”的关键提示，忽略了Morrie的教师身份线索。破题点：结合文中对Morrie帮助学生探索答案的描述，从“teacher”相关语句推理其身份。",
+            "answer_location": [
+              400,
+              1834,
+              610,
+              1886
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "B",
+              "analysis": "这道题考查的是人物身份的推理判断。题干中明确提到“Our teacher helped us...”，直接表明Morrie是老师。学生选了A（学生），可能是忽略了这个关键句，或者将Morrie与文中其他学生混淆。请再读一遍第一段，找出描述Morrie行为和角色的关键词。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "23",
+        "question_type": "选择题",
+        "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第二段 We were afraid that they wouldn't catch us and we would hit the floor. 他们害怕什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第二段 We were afraid that they wouldn't catch us and we would hit the floor. 他们害怕什么？",
+            "student_answer": "C",
+            "standard_answer": "D",
+            "reference_answer": "D",
+            "is_correct": false,
+            "analysis": "这道题考查细节理解。错因：学生误选C，可能误解了“didn't understand”的语境，未准确理解文中“afraid that they wouldn't catch us and we would hit the floor”的核心担忧。破题点：定位到第二段原句，分析学生害怕的本质是担心摔倒，关注“afraid”后的具体后果描述。",
+            "answer_location": [
+              280,
+              2192,
+              1048,
+              2306
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "D",
+              "analysis": "这道题考查的是细节信息提取。原文明确说“We were afraid that they wouldn't catch us and we would hit the floor.”，说明学生害怕的是“摔倒在地”。选项C“他们不理解Marrie”是无中生有，文章并未提及。请仔细对照原文，找到描述学生心理活动的句子，避免主观臆断。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "24",
+        "question_type": "选择题",
+        "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第三段 She looked quiet but brave. 她看起来怎样？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第三段 She looked quiet but brave. 她看起来怎样？",
+            "student_answer": "C",
+            "standard_answer": "C",
+            "reference_answer": "C",
+            "is_correct": true,
+            "analysis": "这道题考查细节理解。正确原因：学生选对了，因为文中第三段明确描述“She looked quiet but brave”，与选项C完全对应。破题点：直接定位原文对女孩的外貌/气质描述句，提取关键形容词匹配选项。",
+            "answer_location": [
+              264,
+              2588,
+              754,
+              2738
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "C",
+              "analysis": "这道题考查的是直接细节理解。原文第三段明确写道“She looked quiet but brave.”，与选项C完全一致。这是一个非常直接的信息匹配题，学生能选对，说明阅读时注意到了关键形容词，值得表扬。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "25",
+        "question_type": "选择题",
+        "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第四段 But before she hit the floor, the other students caught her, held her and finally helped her stand up. 其他同学做了什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。细节理解题：根据第四段 But before she hit the floor, the other students caught her, held her and finally helped her stand up. 其他同学做了什么？",
+            "student_answer": "D",
+            "standard_answer": "D",
+            "reference_answer": "D",
+            "is_correct": true,
+            "analysis": "这道题考查细节理解。正确原因：学生选对了，因为文中第四段明确提到“the other students caught her”，与选项D的描述一致。破题点：定位原文描述女孩摔倒前的动作句，提取“other students”的行为关键词“caught her”。",
+            "answer_location": [
+              1142,
+              2870,
+              1848,
+              2952
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "D",
+              "reference_answer": "D",
+              "analysis": "这道题考查的是事件结果的细节理解。原文第四段清晰描述了“the other students caught her...”，即其他同学接住了她。选项D准确概括了这一动作。学生答对，说明能精准定位并理解文中的关键动词，这是阅读理解的重要能力。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "26",
+        "question_type": "选择题",
+        "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。归纳理解题：根据最后一段，女孩的行为让他们明白了什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "这篇短文主要介绍了一位老师为了让学生明白如果你对其他人足够的信任，他们不会让你失望所做的一个试验。归纳理解题：根据最后一段，女孩的行为让他们明白了什么？",
+            "student_answer": "A",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": true,
+            "analysis": "这道题考查归纳理解。正确原因：学生选对了，因为女孩勇敢信任同学，同学成功接住她的行为，结合最后一段老师“if you are brave enough to trust them, they will not let you down”的总结，让大家明白彼此间可以建立信任。破题点：结合文章主旨（信任他人）和女孩的试验结果，理解群体获得的启示。",
+            "answer_location": [
+              424,
+              3100,
+              1194,
+              3202
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "A",
+              "analysis": "这道题考查的是主旨归纳。文章结尾Morrie的话点明了主题：“But if you are brave enough to trust them, they will not let you down.”，这与选项A“他们觉得可以互相信任”完全契合。学生能选对，说明抓住了文章的核心思想，理解了实验的目的和寓意。",
+              "is_correct": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-BW-CG-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "19",
+        "question_type": "选择题",
+        "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。细节理解题：Which of the following is the correct order according to the passage?\na. Scott got badly bitten while touching White Fang.\nb. White Fang behaved badly and hurt Matt.\nc. White Fang ate the meat that Scott dropped on the ground.\nd. Scott touched the dog.\ne. White Fang ate the meat from Scott’s hand.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。细节理解题：Which of the following is the correct order according to the passage?\na. Scott got badly bitten while touching White Fang.\nb. White Fang behaved badly and hurt Matt.\nc. White Fang ate the meat that Scott dropped on the ground.\nd. Scott touched the dog.\ne. White Fang ate the meat from Scott’s hand.",
+            "student_answer": "C",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "错因：对事件发生的先后顺序梳理错误，未按文章逻辑（b事件先发生，随后依次是a、c、e、d）排列。破题点：回归文章，通过事件的时间线或因果关系（如White Fang先伤Matt，再咬Scott，之后Scott投食、喂手、触摸狗）梳理顺序，对应选项B（baced）。",
+            "answer_location": [
+              1250,
+              1568,
+              1368,
+              1614
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "B",
+              "analysis": "回答错误。这道题考查的是对文章事件发展顺序的理解。你需要仔细梳理故事脉络：首先，White Fang因为行为恶劣伤害了Matt，这是事件的起因；接着，Scott尝试接触它，结果被严重咬伤；然后，Scott开始用食物进行温和的训练，先是把肉放在地上让它吃，再是让肉从手中喂食；最后，它才慢慢接受Scott的触摸。关键破题点在于区分“被咬”和“主动接触”的先后顺序，以及食物训练是从“地上”到“手中”的递进过程。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "20",
+        "question_type": "选择题",
+        "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。推理判断题：According to the underlined sentence, we can infer (推断) ______.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。推理判断题：According to the underlined sentence, we can infer (推断) ______.",
+            "student_answer": "B",
+            "standard_answer": "D",
+            "reference_answer": "D",
+            "is_correct": false,
+            "analysis": "错因：未理解画线句中“狼性（咬手）”与“本性（顺从）”的对比，忽略了White Fang的转变（从抗拒到接受Scott）。破题点：结合文章主题（White Fang变温顺），分析两种“本性”的冲突倾向——顺从最终占优，说明它会逐渐接受Scott（对应选项D）。",
+            "answer_location": [
+              390,
+              1844,
+              1548,
+              1912
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "B",
+              "reference_answer": "D",
+              "analysis": "回答错误。这道题考查的是对关键句子深层含义的推断能力。学生错在将“需要帮助控制身体”理解为字面意思，而忽略了文章的核心主题——信任与驯化。关键破题点在于理解“狼性”代表原始本能，“本性”代表可被引导的温顺特质。这句话暗示了两种力量的斗争，而最终“顺从”才是结局，因此应推断出它正在改变并逐渐接受Scott，而不是需要外力去控制。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "21",
+        "question_type": "选择题",
+        "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。推理判断题：Based on the passage, what did Scott teach White Fang to do?",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇记叙文，主要讲述了一只狗White Fang在主人Scott的训练下逐渐变得温顺，不咬人并喜欢被抚摸。推理判断题：Based on the passage, what did Scott teach White Fang to do?",
+            "student_answer": "A",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": true,
+            "analysis": "正确。文章围绕White Fang从攻击性到温顺（喜欢被抚摸、不咬人）的转变，体现Scott教会它“学会爱”（接受人类善意、建立信任）。破题点：结合主题（野性到温顺的转变），判断核心是教会它信任与接受人类的爱。",
+            "answer_location": [
+              408,
+              2236,
+              758,
+              2286
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "A",
+              "analysis": "回答正确。这道题考查的是对文章主旨和人物行为意义的把握。Scott的行为不仅仅是教它吃饭或工作，而是通过耐心、温柔和信任，让它从一只充满攻击性的野兽转变为一个能接受爱和被爱的生命。关键破题点在于抓住文章结尾的描述——“不咬人并喜欢被抚摸”，这正是“学会爱”的具体表现。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "6",
+        "question_type": "其他",
+        "question_text": "Will you trust your friends if you can’t see anything? If you are falling, do you believe they will catch you and help you stand up? Our teacher helped us to get the answer.\n\nOne day, Mr. Morrie came into the classroom and said he had a game for us to try. He divided us into two groups. One student from the first group, stood in front of us with his eyes closed, and then fell backwards (向后地). The second group stood behind him. Before he fell on the floor, they should catch him and not let him get hurt. Most of us were uncomfortable with this. We were afraid that they wouldn’t catch us",
+        "answer_steps": []
+      }
+    ]
+  },
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-BX-CH-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "14",
+        "question_type": "选择题",
+        "question_text": "The freshman fifteen means ______.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "The freshman fifteen means ______.",
+            "student_answer": "A",
+            "standard_answer": "C",
+            "reference_answer": "C",
+            "is_correct": false,
+            "analysis": "错因：学生对‘freshman fifteen’的定义理解有误，未关注文章中‘fifteen pounds of weight many American students will gain in their first year at college’的关键解释。破题点：回到文章第一段，定位对‘freshman fifteen’的描述，明确其指向大一新生入学第一年增加的体重，据此排除‘吃垃圾食品的学生’‘高中生增重’‘食物重量’等错误选项。",
+            "answer_location": [
+              506,
+              1742,
+              1654,
+              1828
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "C",
+              "analysis": "回答错误。这道题考查的是对文章细节的理解。题干问的是“十五磅”具体指代什么，需要回到原文定位关键句。原文明确指出“the fifteen means fifteen pounds... of weight many American students will gain in their first year at college”，核心是“first-year college students”和“weight gain”。选项A混淆了“吃垃圾食品的学生”这个概念，而原文并未将体重增加与特定饮食习惯绑定，而是泛指大一新生普遍现象。请重新审视题干中的关键词“means”，它要求你解释这个术语的定义，而不是推断原因。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "15",
+        "question_type": "选择题",
+        "question_text": "According to this passage, which student will probably get freshman fifteen?",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "According to this passage, which student will probably get freshman fifteen?",
+            "student_answer": "A",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "错因：学生混淆了健康与不健康的饮食习惯对体重的影响，Sally吃新鲜水果是健康行为（符合文章建议‘Have some fruit after dinner instead’），不易增重；而Ann每天晚饭后吃冰淇淋和蛋糕（高糖甜点）违背健康饮食建议，易导致体重增加。破题点：结合文章‘Don't eat desserts that are full of sugar’的建议，分析选项中行为是否符合‘易增重’的诱因，排除健康行为的选项。",
+            "answer_location": [
+              486,
+              2234,
+              1536,
+              2330
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "B",
+              "analysis": "回答错误。这道题考查的是基于文本信息进行推理的能力。题目要求你根据文章给出的建议来推断结果。文中明确建议“Don't eat desserts that are full of sugar. Have some fruit after dinner instead.”，这表明高糖分的甜点是导致体重增加的风险因素。学生安的行为（每天晚饭后吃冰淇淋和蛋糕）直接违背了这一健康建议。因此，可以合理推断她的行为会导致体重增加。选项A描述的是一个健康行为，与题干情境相反，属于干扰项。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "16",
+        "question_type": "选择题",
+        "question_text": "The writer of the passage would probably agree with the idea that ______.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "The writer of the passage would probably agree with the idea that ______.",
+            "student_answer": "C",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "错因：学生误解文章观点，文章强调‘朋友互助有助于健康饮食和保持体型’，而非‘所有大学生都会增重’（C选项表述绝对化，与文章‘the freshman fifteen can happen to anyone’的‘可能发生’不符）。破题点：关注文章最后一段‘Make a deal with your friends... Help each other eat right and stay fit’，理解作者对‘朋友帮助’的态度，排除绝对化、无关的选项（如‘学生应多在户外学习’‘可以随意吃东西’）。",
+            "answer_location": [
+              456,
+              2930,
+              1530,
+              3046
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "B",
+              "analysis": "回答错误。这道题考查的是对文章主旨和作者观点的把握。题干要求你根据文章最后一段的内容进行推理。原文明确提出“Make a deal with your friends to try and eat healthy food together”以及“Help each other eat right and stay fit”，这清晰地传达了一个信息：作者认为通过朋友间的互相帮助和支持，维持健康的生活方式会更有效、更容易。选项C“所有大学生都会增重十五磅”是对文章内容的过度概括和曲解，原文说的是“can happen to anyone”，并非必然发生。请关注作者提出的解决方案及其隐含的观点。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "17",
+        "question_type": "选择题",
+        "question_text": "Which column of newspaper is the passage probably from?",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "Which column of newspaper is the passage probably from?",
+            "student_answer": "",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生未作答，可能未梳理文章主题（大学生健康管理建议）与报纸栏目的关联。破题点：文章围绕‘大学生健康、体重管理’展开，这类内容常出现在‘健康’‘生活方式’类栏目（如‘Health’专栏），结合选项（体育、教育、旅游等栏目与主题无关），排除干扰项。",
+            "answer_location": [],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "",
+              "reference_answer": "A",
+              "analysis": "该题未作答。这道题考查的是对文章体裁和目标读者的判断。文章讨论的是“大一新生”如何应对“体重增加”这一普遍问题，并提供了具体的“健康建议”。这种内容通常出现在面向学生群体的健康生活指南、校园杂志或报纸的“健康”或“生活”专栏中。它不是一篇严肃的学术论文，也不是小说或广告。因此，最合适的来源应该是提供实用生活建议的媒体栏目。思考一下，什么样的出版物会关心并指导大学生如何保持健康呢？",
+              "is_correct": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-BY-CI-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "10",
+        "question_type": "选择题",
+        "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。细节理解题：根据第1段“He can't understand how girls can talk for so long...One day Robert was so curious that he asked Amanda what they talked about,” Robert对什么感到好奇？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。细节理解题：根据第1段“He can't understand how girls can talk for so long...One day Robert was so curious that he asked Amanda what they talked about,” Robert对什么感到好奇？",
+            "student_answer": "D",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生可能未准确定位原文第一段的关键信息，误解了Robert好奇的具体内容。破题点：回到原文第一段，找到描述Robert好奇的句子（他不理解女孩为何能长时间交谈），结合选项分析，关注“talk so long”对应的疑问方向。",
+            "answer_location": [
+              604,
+              1304,
+              1576,
+              1392
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "D",
+              "reference_answer": "A",
+              "analysis": "学生错因：选项D描述的是女孩们对什么感到好奇，而题目问的是Robert的好奇点，主语混淆导致选错。关键破题点：仔细审题，明确问题的主语是Robert，再回到原文定位，第一段提到Robert不理解女孩为什么能聊那么久，并因此去问Amanda她们聊什么，这直接对应选项A的内容。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "11",
+        "question_type": "选择题",
+        "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。词义猜测题：根据第3段“many teenage boys cannot name a single best friend.” hesitate的意思是什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。词义猜测题：根据第3段“many teenage boys cannot name a single best friend.” hesitate的意思是什么？",
+            "student_answer": "B",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生对“hesitate”的词义理解有误，未结合第三段“男孩难以说出最好朋友”的语境。破题点：分析第三段情境（男孩无法快速说出最好的朋友），推测“hesitate”与说话速度、态度相关，结合选项中“are slow to speak”的释义判断。",
+            "answer_location": [
+              1320,
+              1512,
+              1864,
+              1574
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "B",
+              "reference_answer": "A",
+              "analysis": "学生错因：选项B“在公共场合害羞”是对“hesitate”的过度引申，原文语境中强调的是男孩们难以说出一个最好的朋友，核心在于“行动上的迟疑”，而非社交恐惧。关键破题点：词义猜测要结合上下文，文中提到男孩们无法说出一个最好的朋友，说明他们在表达或确定时存在犹豫，因此“slow to speak”更贴合语境。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "12",
+        "question_type": "选择题",
+        "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。推理判断题：根据第5段“The qualities that boys and girls consider important in a friend seem to be the same, regardless of(无论)the basis of these friendships.” 男孩和女孩对朋友的品质想法一致吗？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。推理判断题：根据第5段“The qualities that boys and girls consider important in a friend seem to be the same, regardless of(无论)the basis of these friendships.” 男孩和女孩对朋友的品质想法一致吗？",
+            "student_answer": "C",
+            "standard_answer": "D",
+            "reference_answer": "D",
+            "is_correct": false,
+            "analysis": "错因：学生未正确理解第五段句子的核心含义，错误解读了男孩和女孩对朋友品质的看法。破题点：仔细分析第五段“qualities...the same”的关键信息，明确男孩和女孩对朋友重要品质的看法是一致的，据此排除偏离该核心的选项。",
+            "answer_location": [
+              606,
+              1942,
+              1766,
+              2002
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "D",
+              "analysis": "学生错因：选项C只关注了女孩的行为，忽略了原文第五段明确指出男孩和女孩在朋友品质上的看法是相同的（seem to be the same），属于以偏概全。关键破题点：推理判断题需抓住文章的核心观点句，本题的关键句是“the qualities...seem to be the same”，它直接支持了选项D，即男孩和女孩对朋友品质的看法一致。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "13",
+        "question_type": "选择题",
+        "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。最佳标题题：本文的最佳标题是什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇说明文，主要介绍了青少年的友谊：男生和朋友们分享活动，女生和朋友们分享感受。最佳标题题：本文的最佳标题是什么？",
+            "student_answer": "B",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生未准确把握文章主旨，错误选择了侧重“态度”的标题。破题点：总结文章核心内容（围绕青少年的友谊，对比男女生友谊的不同特点），最佳标题应紧扣“青少年的友谊”这一主题，结合选项中对主题的涵盖性判断。",
+            "answer_location": [
+              1318,
+              2212,
+              2096,
+              2272
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "B",
+              "reference_answer": "A",
+              "analysis": "学生错因：选项B“Different Attitudes towards Friendships”虽然部分正确，但过于片面，只强调了态度差异，而忽略了文章后半部分关于男孩女孩在朋友品质上看法一致的结论，未能概括全文主旨。关键破题点：最佳标题应涵盖文章所有核心内容，本文不仅讨论了男女在交友方式上的不同，也指出了他们对朋友品质的共同看法，因此“Teenagers’ Friendships”作为总括性标题更为恰当。",
+              "is_correct": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-BZ-CJ-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "1",
+        "question_type": "选择题",
+        "question_text": "本文是一篇记叙文，主要讲4个学生去学校的方式。主旨大意题：本文主要讲的是什么？A. Where they live. B. How they go to school. C. Where their parents work. D. When they go to school.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文是一篇记叙文，主要讲4个学生去学校的方式。主旨大意题：本文主要讲的是什么？A. Where they live. B. How they go to school. C. Where their parents work. D. When they go to school.",
+            "student_answer": "B",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": true,
+            "analysis": "这道题考查主旨大意。文章围绕4个学生去学校的交通方式展开，选项B精准概括了文章核心内容。解题时需抓住文章主题，对比选项与文章主要内容的匹配度。",
+            "answer_location": [
+              1232,
+              368,
+              1718,
+              470
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "未识别",
+              "reference_answer": "",
+              "analysis": "无解析",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "6",
+        "question_type": "选择题",
+        "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。细节理解题：根据“But my friend, Mike, looked unhappy because he failed the English test.” Mike为什么不高兴？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。细节理解题：根据“But my friend, Mike, looked unhappy because he failed the English test.” Mike为什么不高兴？",
+            "student_answer": "C",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生对选项含义理解有误，未准确对应原文“failed the English test”的逻辑。破题点：原文明确说明Mike因英语考试失利而不高兴，选项A“Because he did badly in the tests”与原文表述同义，需关注原文关键句与选项的语义匹配。",
+            "answer_location": [
+              494,
+              1630,
+              1300,
+              1712
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "A",
+              "analysis": "学生错因：选项C 'Because he wasn't pleased with his test.' 虽然语义接近，但未精准对应原文中 'failed the English test' 的直接原因。关键破题点：这道题考查细节理解，需要回到原文定位关键词 'because he failed the English test'，直接说明不高兴的原因是考试失败，而非笼统的对成绩不满意。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "7",
+        "question_type": "选择题",
+        "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。推理判断题：根据“Although it was very important for me, I decided to give it to him. He looked at me in surprise. He knew how carefully I took the notes!” Mike收到礼物时的心情是？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。推理判断题：根据“Although it was very important for me, I decided to give it to him. He looked at me in surprise. He knew how carefully I took the notes!” Mike收到礼物时的心情是？",
+            "student_answer": "C",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生可能误解了“in surprise”的语境，或对“Moved（感动）”的逻辑推导不足。破题点：作者送出的是自己珍视的英语笔记，Mike知晓笔记的重要性，结合“in surprise”的反应，可推断他因这份心意而感动，对应选项A。解题时需结合礼物的重要性和人物反应推导心情。",
+            "answer_location": [
+              1290,
+              1914,
+              1448,
+              1960
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "A",
+              "analysis": "学生错因：选择了C 'Peaceful'（平静），但原文明确提到 'He looked at me in surprise'，并强调了笔记的重要性，这表明他的情绪是惊讶和感动，而非平静。关键破题点：这道题考查推理判断，需要结合上下文推断情感。注意文中 'in surprise' 和 'how carefully I took the notes' 这两个线索，它们共同指向了被深深触动的情感，即感动（Moved）。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "8",
+        "question_type": "选择题",
+        "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。细节理解题：根据“But my friend, Mike, looked unhappy because he failed the English test.” 作者为什么帮助Mike？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。细节理解题：根据“But my friend, Mike, looked unhappy because he failed the English test.” 作者为什么帮助Mike？",
+            "student_answer": "B",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": true,
+            "analysis": "这道题考查细节理解。从文章语境看，作者和Mike是朋友（“my friend, Mike”），友谊是帮助的核心原因，选项B与原文人物关系的逻辑相符。解题时需关注人物关系对行为动机的影响。",
+            "answer_location": [
+              500,
+              2130,
+              1398,
+              2218
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "B",
+              "reference_answer": "B",
+              "analysis": "回答正确。这道题考查的是细节理解。文章开头就点明了背景——朋友Mike因为英语考试失利而不开心，作者看到后决定帮助他。这体现了朋友间的关心与支持，因此选择B项 'Because the author and Mike had a friendship.' 是准确的。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "9",
+        "question_type": "选择题",
+        "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。主旨大意题：根据“It's not expensive but it's from my heart.”及短文内容，本文主要讲的是什么？",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "本文介绍了作者把自己最重要的英语日记送给迈克来帮助他学习英语。主旨大意题：根据“It's not expensive but it's from my heart.”及短文内容，本文主要讲的是什么？",
+            "student_answer": "D",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": false,
+            "analysis": "错因：学生未把握文章主旨，误解了选项的寓意。破题点：文章通过送笔记的故事，强调“礼物的心意比价值重要”，选项A精准呼应主旨；而选项D的寓意与文章主题无关。解题时需结合结尾句和故事核心提炼主旨。",
+            "answer_location": [
+              1282,
+              2586,
+              1834,
+              2640
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "D",
+              "reference_answer": "A",
+              "analysis": "学生错因：选择了D 'The early bus catches the worm.'，这是一个与文章内容完全无关的谚语，属于无效选项。关键破题点：这道题考查主旨大意，需要抓住文章的核心思想。文章结尾句 'It's not expensive but it's from my heart.' 是点睛之笔，强调了心意比物质价值更重要。因此，正确答案应围绕‘心意’或‘友谊’展开，如A项 'It's the thought that counts.'。",
+              "is_correct": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image_url": "https://algo-public.s3.cn-north-1.amazonaws.com.cn/feishu/Kb0nsE73ghiwivtXegQcDMUZnNb-tN9Kxj-CA-CK-87.png",
+    "markup_status": "completed",
+    "page_type": "question_and_answer",
+    "has_standard_answer": true,
+    "questions_info": [
+      {
+        "question_number": "1",
+        "question_type": "选择题",
+        "question_text": "1. How does Julie go to school?\nA. By bike.  B. By car.  C. By bus.  D. By subway.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "1. How does Julie go to school?\nA. By bike.  B. By car.  C. By bus.  D. By subway.",
+            "student_answer": "A",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "错因：学生可能看错了Julie的交通方式描述，文中Julie提到“Every morning, my father drives my mother and me to school”，说明她是乘坐汽车（by car）上学的，对应选项B。破题点：仔细定位Julie的段落，找到关于上学方式的关键句，提取“drives”的含义，明确交通方式为乘车。",
+            "answer_location": [
+              512,
+              1648,
+              734,
+              1704
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "B",
+              "analysis": "这道题考查的是细节理解能力。错因在于没有准确抓住Julie自述中的关键句“my father drives my mother and me to school”，这句话明确说明了她是坐汽车去学校的。破题点在于定位到文中具体人物的直接陈述，而不是根据其他人物的信息进行推测。",
+              "is_correct": false
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "2",
+        "question_type": "选择题",
+        "question_text": "2. Where is Joe from?\nA. America.  B. Sichuan.  C. Yunnan.  D. Beijing.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "2. Where is Joe from?\nA. America.  B. Sichuan.  C. Yunnan.  D. Beijing.",
+            "student_answer": "A",
+            "standard_answer": "A",
+            "reference_answer": "A",
+            "is_correct": true,
+            "analysis": "学生回答正确。破题点：找到Joe的来源描述，文中Joe说“I'm from Miami, the USA”，“USA”即“America”（美国），对应选项A。需要准确识别地名的同义替换，明确“USA”与“America”的对应关系。",
+            "answer_location": [
+              532,
+              1786,
+              742,
+              1830
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "A",
+              "reference_answer": "A",
+              "analysis": "这道题考查的是细节定位能力。你准确地从Joe的自我介绍中提取了关键信息“I'm from Miami, the USA.”，并正确匹配到选项A“America”。破题点在于快速锁定文中人物的原话，并理解“Miami, the USA”属于美国这个地理概念。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "3",
+        "question_type": "选择题",
+        "question_text": "3. Why doesn't Carol like going to school?\nA. Because she has no car.\nB. Because it always rains in Yunnan.\nC. Because her school is far from her home.\nD. Because there is no nice road in their village.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "3. Why doesn't Carol like going to school?\nA. Because she has no car.\nB. Because it always rains in Yunnan.\nC. Because her school is far from her home.\nD. Because there is no nice road in their village.",
+            "student_answer": "C",
+            "standard_answer": "C",
+            "reference_answer": "C",
+            "is_correct": true,
+            "analysis": "学生回答正确。破题点：找到Carol不喜欢上学的原因描述，文中Carol明确说“I don't really like going to school, because my school is far from my home”，直接对应选项C。需要精准定位关键句，提取“because”后的原因内容。",
+            "answer_location": [
+              510,
+              2042,
+              1224,
+              2106
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "C",
+              "analysis": "这道题考查的是对因果关系的理解。你正确识别出Carol话语中的原因状语从句“because my school is far from my home”，并将其与选项C对应。破题点在于关注句子中的连接词“because”，它后面的内容就是问题所问的原因。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "4",
+        "question_type": "选择题",
+        "question_text": "4. We can see that ______.\nA. Joe's last name is Brown\nB. Rick goes to No. 1 Middle School\nC. Julie's parents work in the same school\nD. there is a river between Carol's home and school",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "4. We can see that ______.\nA. Joe's last name is Brown\nB. Rick goes to No. 1 Middle School\nC. Julie's parents work in the same school\nD. there is a river between Carol's home and school",
+            "student_answer": "C",
+            "standard_answer": "C",
+            "reference_answer": "C",
+            "is_correct": true,
+            "analysis": "学生回答正确。破题点：逐一分析选项：A中Joe的姓是Smith（文中“My name is Joe Smith”），排除；B中Rick去的是No.3 Middle School（文中“I go to No.3 Middle School”），排除；C中Julie的父母都是同一所中学的老师（文中“My parents are teachers in a middle school and I'm a student in their school”），符合；D中Carol家到学校有两条河（文中“And there are two rivers between my home and school”），排除。需要结合各学生的描述，对每个选项进行细节验证。",
+            "answer_location": [
+              506,
+              2408,
+              1214,
+              2482
+            ],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "C",
+              "reference_answer": "C",
+              "analysis": "这道题考查的是推理判断能力。你从“in a middle school”和“I'm a student in their school”的表述中推断出Julie的父母在同一所学校工作，这是正确的逻辑推导。破题点在于理解“their school”指的是前文提到的“a middle school”，从而得出父母在同一所学校任教的结论。",
+              "is_correct": true
+            }
+          }
+        ]
+      },
+      {
+        "question_number": "5",
+        "question_type": "选择题",
+        "question_text": "5. What do they talk about?\nA. Their friends. B. Their schools. C. How they go to school. D. Their families.",
+        "answer_steps": [
+          {
+            "step_id": 1,
+            "question_text": "5. What do they talk about?\nA. Their friends. B. Their schools. C. How they go to school. D. Their families.",
+            "student_answer": "C",
+            "standard_answer": "B",
+            "reference_answer": "B",
+            "is_correct": false,
+            "analysis": "错因：学生可能仅关注了交通方式的细节，而忽略了文章的主旨是围绕“学校”展开（如学校的位置、上学方式与学校的关联等）。破题点：结合四个学生的描述，他们的内容都与“学校”相关（如学校的位置、上学的方式），因此主旨是关于“他们的学校”（选项B）。需要从整体上理解文章，关注每个学生描述中与“学校”的核心关联，而非仅交通方式的细节。",
+            "answer_location": [],
+            "models_consistent": true,
+            "qwen_result": {
+              "student_answer": "",
+              "reference_answer": "B",
+              "analysis": "这道题考查的是对文章主旨的概括能力。错因在于没有完成作答，导致无法得分。破题点在于通读全文后，总结四个学生分别描述的上学方式，提炼出文章的核心主题——不同学生去学校的不同交通方式。",
+              "is_correct": false
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
