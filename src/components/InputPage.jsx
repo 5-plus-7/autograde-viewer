@@ -1,8 +1,18 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import './InputPage.css'
 
 function InputPage({ onSubmit, isLoading }) {
   const [recordId, setRecordId] = useState('')
+
+  // 从URL参数中读取recordId并预置到输入框
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search)
+    const recordIdFromUrl = urlParams.get('recordId') || urlParams.get('id')
+    
+    if (recordIdFromUrl) {
+      setRecordId(recordIdFromUrl)
+    }
+  }, []) // 只在组件挂载时执行一次
 
   const handleSubmit = async (e) => {
     e.preventDefault()
